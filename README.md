@@ -1,1 +1,2 @@
-# Data-Mining
+# Lung cancer is the most common cause of cancer related deaths world-wide. Small cell lung cancer (SCLC), the most common type of lung cancer, have both reacted well to chemo-, radiation-, and adjuvant treatments. Surgery to remove the tumor also appeared to be a viable treatment option. However, these treatments had unfavorable side effects, necessitating the development of alternate lung cancer medications such as novel drugs. Activation of Epidermal Growth Factor Receptor (EGFR) protein is a key reason for lung cancer. 
+# Our project aims to compare various regression algorithms such as Random Forest Regressor, Ada-boost Regressor and Bagging Regressor to predict the efficacy of a drug in inhibiting the growth of cancer cells
